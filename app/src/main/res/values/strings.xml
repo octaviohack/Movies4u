@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies4u</string>
+    <string name="filling_fast">string</string>
+    <string name="starring">string</string>
+    <string name="running_time">string</string>
+    <string name="icon">string</string>
+    <string name="card_image">string</string>
+    <string name="movie_image" />
+    <string name="select_seats" />
+    <string name="sold_out" />
+</resources>
